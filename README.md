@@ -14,7 +14,7 @@ Typcically around software solutions
 ## Goals
 Teams; <12 people in size
 
-# V-Team
+# vTeam
 Self assembling teams around interests, commercial or other.
 
 ## Goals
