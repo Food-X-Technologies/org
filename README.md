@@ -4,9 +4,15 @@
 Career Development
 Management, who knows your practice
 
+## Goals
+Managers; manage <10 people
+
 # Team
 Value stream, to invest
 Typcically around software solutions
+
+## Goals
+Teams; <12 people in size
 
 # V-Team
 Self assembling teams around interests, commercial or other.
