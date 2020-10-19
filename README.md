@@ -16,3 +16,6 @@ Teams; <12 people in size
 
 # V-Team
 Self assembling teams around interests, commercial or other.
+
+## Goals
+Inclusive, self-joining, self-administrating
