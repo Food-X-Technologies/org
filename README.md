@@ -9,7 +9,7 @@ Managers; manage <10 people
 
 # Team
 Value stream, to invest
-Typcically around software solutions
+Typically around software solutions
 
 ## Goals
 Teams; <12 people in size
@@ -18,4 +18,4 @@ Teams; <12 people in size
 Self assembling teams around interests, commercial or other.
 
 ## Goals
-Inclusive, self-joining, self-administrating
+Inclusive, self-joining, self-administering
