@@ -10,6 +10,8 @@ Everyone has a manager, each manager has less than 10 people they are managing a
 Career development, opportunities, growth.
 
 # Team
+Value stream, to invest, Typically around software solutions.
+
 The 'teams', equate to value streams in the business. This is useful as we can organize ourselves into whole engines of success around diverse problem sets that come with the need to have special skill sets.
 This enables people to gain deep knowledge in specific areas of our business, and continuously drive improvents, and solutions into these areas.
 This enables the business to justify budget against the work that we are doing, and track financial due diligence against market forcasting and demand.
@@ -22,4 +24,4 @@ Teams; greater than 4, less than 20.
 Self assembling teams around interests, commercial or other.
 
 ## Goals
-Inclusive, self-joining, self-administrating
+Inclusive, self-joining, self-administering
